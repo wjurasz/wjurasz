@@ -1,6 +1,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-two-mu-77.vercel.app/api?username=wjurasz&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-two-mu-77.vercel.app/api/top-langs/?username=wjurasz&layout=compact&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-two-mu-77.vercel.app/api/top-langs/?username=wjurasz&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=8" />
 </p>
 
 <p align="center">
